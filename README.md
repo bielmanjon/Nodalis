@@ -1,6 +1,6 @@
-# 🖥️ Projectes-Biel-Marc
+# 🖥️ Projecte Biel&Marc
 
-# 🏢 SistenSI — Infraestructura de red de una empresa
+## 🏢 SistenSI — Infraestructura de red de una empresa
 
 <kbd>PROYECTO FINAL SMX</kbd> · Curso 2026/2027 · Institut Puig Castellar
 
