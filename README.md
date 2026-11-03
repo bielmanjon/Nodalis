@@ -80,7 +80,7 @@ Para mantener el repositorio organizado y evitar problemas durante el desarrollo
 
 Utilizaremos un tablero Kanban para organizar las tareas, controlar el progreso y saber qué queda pendiente.
 
-🔗 **Tablero de tareas:** [Enlace a Taiga]
+🔗 **Tablero de tareas:** [https://tree.taiga.io/project/marcmorenoariza-nodalis/kanban]
 
 ---
 
