@@ -1,11 +1,12 @@
-<<<<<<< HEAD
+
 # Projectes-Biel-Marc
-=======
+
 # Sistensi — Infraestructura de red de una empresa
 
-Proyecto de [ciclo / módulo] — [Centro] — curso 2026/27.
+Proyecto de SMX — Puig Castellar — curso 2026/27.
 
-**Autores:** Marc Moreno y Biel Manjón
+**Autores:**
+Marc Moreno y Biel Manjón
 
 ## Descripción
 
@@ -14,7 +15,7 @@ Diseño e implantación de la arquitectura de red de una empresa: direccionamien
 ## Estructura
 
 | Carpeta | Contenido |
-|---|---|
+
 | [docs](./docs) | Planificación (propuesta, documento funcional, Gantt, Kanban), memoria y defensa |
 | [red](./red) | Diseño y direccionamiento IP, DNS/DHCP, firewall |
 | [servidores](./servidores) | Entorno virtual, Active Directory y carpetas compartidas, copias de seguridad |
@@ -24,7 +25,7 @@ Diseño e implantación de la arquitectura de red de una empresa: direccionamien
 ## Reparto de tareas
 
 | Tarea | Responsable |
-|---|---|
+
 | Diseño de la red y direccionamiento IP | Marc |
 | Entorno de máquinas virtuales | Marc |
 | DNS y DHCP | Marc |
