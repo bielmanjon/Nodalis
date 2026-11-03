@@ -1,0 +1,38 @@
+# Secretos
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*password*
+*credenciales*
+
+# Máquinas virtuales e ISOs
+*.iso
+*.ova
+*.ovf
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.qcow2
+
+# Copias y comprimidos
+*.bak
+*.zip
+*.7z
+
+# Web (Astro / Node)
+node_modules/
+dist/
+.astro/
+npm-debug.log*
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+~$*
+.vscode/
+.idea/
