@@ -1,49 +1,130 @@
+# 🖥️ Projectes-Biel-Marc
 
-# Projectes-Biel-Marc
+# 🏢 SistenSI — Infraestructura de red de una empresa
 
-# Sistensi — Infraestructura de red de una empresa
+<kbd>PROYECTO FINAL SMX</kbd> · Curso 2026/2027 · Institut Puig Castellar
 
-Proyecto de SMX — Puig Castellar — curso 2026/27.
+**Autores:** Marc Moreno y Biel Manjón
 
-**Autores:**
-Marc Moreno y Biel Manjón
+---
 
-## Descripción
+## 📌 1. Sobre el proyecto
 
-Diseño e implantación de la arquitectura de red de una empresa: direccionamiento y segmentación, DNS/DHCP, firewall, Active Directory, carpetas compartidas, copias de seguridad y web corporativa con Astro.
+Este proyecto consiste en diseñar y montar una infraestructura informática para una empresa ficticia, simulando el entorno tecnológico que podría tener una empresa real.
 
-## Estructura
+El objetivo es crear una red organizada, segura y funcional, donde los diferentes equipos puedan comunicarse y acceder a los recursos necesarios según los permisos de cada usuario.
+
+Para conseguirlo, trabajaremos con servidores, máquinas virtuales, servicios de red y herramientas de administración de sistemas.
+
+### 🎯 Objetivos principales
+
+- Diseñar y organizar la red de la empresa.
+- Configurar el direccionamiento IP y la segmentación de la red.
+- Instalar y configurar servicios DNS y DHCP.
+- Implementar un firewall para controlar las comunicaciones.
+- Crear un entorno de Active Directory para gestionar usuarios y grupos.
+- Configurar carpetas compartidas y permisos de acceso.
+- Preparar un sistema de copias de seguridad.
+- Crear una página web corporativa utilizando Astro.
+- Comprobar que toda la infraestructura funciona correctamente y es segura.
+
+---
+
+## 🗂️ 2. Estructura del repositorio
+
+El repositorio está dividido en diferentes carpetas para mantener todos los archivos organizados y facilitar el seguimiento del proyecto.
 
 | Carpeta | Contenido |
+|:---|:---|
+| 📁 `docs/` | Planificación, propuesta, documento funcional, Gantt, Kanban, memoria y defensa. |
+| 📁 `red/` | Diseño de red, direccionamiento IP, DNS, DHCP y firewall. |
+| 📁 `servidores/` | Entorno virtual, Active Directory, usuarios, grupos y carpetas compartidas. |
+| 📁 `web/` | Desarrollo de la página web corporativa con Astro. |
+| 📁 `pruebas/` | Pruebas de funcionamiento, comprobaciones y seguridad. |
 
-| [docs](./docs) | Planificación (propuesta, documento funcional, Gantt, Kanban), memoria y defensa |
-| [red](./red) | Diseño y direccionamiento IP, DNS/DHCP, firewall |
-| [servidores](./servidores) | Entorno virtual, Active Directory y carpetas compartidas, copias de seguridad |
-| [web](./web) | Sitio web con Astro |
-| [pruebas](./pruebas) | Pruebas de funcionamiento y seguridad |
+---
 
-## Reparto de tareas
+## 🛠️ 3. Tecnologías y herramientas
+
+Estas son las principales tecnologías y herramientas que utilizaremos durante el desarrollo:
+
+| Tecnología | Utilidad |
+|:---|:---|
+| 🖥️ Máquinas virtuales | Simular los equipos y servidores de la empresa. |
+| 🌐 DNS | Traducir nombres de equipos y dominios a direcciones IP. |
+| 📡 DHCP | Asignar automáticamente direcciones IP a los equipos. |
+| 🔥 Firewall | Controlar el tráfico de red y proteger la infraestructura. |
+| 🏢 Active Directory | Gestionar usuarios, grupos y equipos de forma centralizada. |
+| 📂 Carpetas compartidas | Organizar los archivos y controlar los permisos de acceso. |
+| 💾 Copias de seguridad | Mantener una copia de los datos importantes. |
+| 🌍 Astro | Crear la página web corporativa. |
+
+---
+
+## 👥 4. Reparto de tareas
+
+El trabajo se divide entre los dos integrantes para organizar mejor el desarrollo. Algunas tareas se realizarán conjuntamente.
 
 | Tarea | Responsable |
-
+|:---|:---:|
 | Diseño de la red y direccionamiento IP | Marc |
 | Entorno de máquinas virtuales | Marc |
-| DNS y DHCP | Marc |
-| Firewall | Marc |
-| Departamentos, usuarios y grupos | Biel |
-| Servidor Windows con Active Directory | Biel |
-| Carpetas compartidas y permisos | Biel |
-| Copias de seguridad | Biel |
-| Web con Astro | Biel |
-| Pruebas, memoria y defensa | Marc y Biel |
+| Configuración de DNS y DHCP | Marc |
+| Configuración del firewall | Marc |
+| Active Directory (usuarios y grupos) | Biel |
+| Servidor y configuración de carpetas compartidas | Biel |
+| Permisos de acceso | Biel |
+| Configuración de copias de seguridad | Biel |
+| Desarrollo de la página web con Astro | Biel |
+| Pruebas de funcionamiento y seguridad | Marc y Biel |
+| Memoria y defensa del proyecto | Marc y Biel |
 
-## Convenciones
+---
 
-- Capturas en la carpeta `capturas/` de cada área.
-- Nada de contraseñas, claves ni ISOs en el repositorio (ver `.gitignore`).
-- `main` es la versión estable; cada uno trabaja en una rama `feature/<tarea>` y abre un Pull Request.
+## 🔐 5. Organización y normas de trabajo
 
-## Enlaces
+Para mantener el repositorio organizado y evitar problemas durante el desarrollo, seguiremos unas normas básicas:
 
-- Tablero Kanban: [enlace a Taiga]
->>>>>>> 2a7cfd4 (Primer Commit)
+- **Capturas:** todas las imágenes y evidencias se guardarán en una carpeta `capturas/` dentro de su correspondiente apartado.
+- **Seguridad:** no se subirán contraseñas, claves privadas ni archivos ISO al repositorio.
+- **Ramas:** `main` será la rama principal y contendrá las versiones estables del proyecto.
+- **Cambios:** cada integrante trabajará en su propia rama `feature/<tarea>` y después abrirá un Pull Request para incorporar los cambios.
+- **Organización:** los archivos se guardarán siempre en la carpeta correspondiente para facilitar su localización.
+
+---
+
+## 📋 6. Seguimiento del proyecto
+
+Utilizaremos un tablero Kanban para organizar las tareas, controlar el progreso y saber qué queda pendiente.
+
+🔗 **Tablero de tareas:** [Enlace a Taiga]
+
+---
+
+## 📸 7. Evidencias y pruebas
+
+Durante el desarrollo iremos añadiendo capturas de pantalla y comprobaciones para demostrar que los diferentes apartados funcionan correctamente.
+
+Las evidencias incluirán, entre otras cosas:
+
+- Configuración y funcionamiento de la red.
+- Servicios DNS y DHCP.
+- Configuración del firewall.
+- Usuarios y grupos de Active Directory.
+- Acceso a carpetas compartidas y permisos.
+- Realización de copias de seguridad.
+- Funcionamiento de la página web.
+
+---
+
+## 📅 8. Estado del proyecto
+
+<kbd>EN DESARROLLO</kbd>
+
+El proyecto se irá actualizando a medida que avancemos en las diferentes fases de trabajo.
+
+**Última actualización:** noviembre de 2026.
+
+---
+
+*Proyecto realizado por Marc Moreno y Biel Manjón — SMX 2026/2027.*
