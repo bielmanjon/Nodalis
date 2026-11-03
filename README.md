@@ -61,27 +61,10 @@ Estas son las principales tecnologías y herramientas que utilizaremos durante e
 
 ---
 
-## 👥 4. Reparto de tareas
-
-El trabajo se divide entre los dos integrantes para organizar mejor el desarrollo. Algunas tareas se realizarán conjuntamente.
-
-| Tarea | Responsable |
-|:---|:---:|
-| Diseño de la red y direccionamiento IP | Marc |
-| Entorno de máquinas virtuales | Marc |
-| Configuración de DNS y DHCP | Marc |
-| Configuración del firewall | Marc |
-| Active Directory (usuarios y grupos) | Biel |
-| Servidor y configuración de carpetas compartidas | Biel |
-| Permisos de acceso | Biel |
-| Configuración de copias de seguridad | Biel |
-| Desarrollo de la página web con Astro | Biel |
-| Pruebas de funcionamiento y seguridad | Marc y Biel |
-| Memoria y defensa del proyecto | Marc y Biel |
 
 ---
 
-## 🔐 5. Organización y normas de trabajo
+## 🔐 4. Organización y normas de trabajo
 
 Para mantener el repositorio organizado y evitar problemas durante el desarrollo, seguiremos unas normas básicas:
 
@@ -93,7 +76,7 @@ Para mantener el repositorio organizado y evitar problemas durante el desarrollo
 
 ---
 
-## 📋 6. Seguimiento del proyecto
+## 📋 5. Seguimiento del proyecto
 
 Utilizaremos un tablero Kanban para organizar las tareas, controlar el progreso y saber qué queda pendiente.
 
@@ -101,7 +84,7 @@ Utilizaremos un tablero Kanban para organizar las tareas, controlar el progreso 
 
 ---
 
-## 📸 7. Evidencias y pruebas
+## 📸 6. Evidencias y pruebas
 
 Durante el desarrollo iremos añadiendo capturas de pantalla y comprobaciones para demostrar que los diferentes apartados funcionan correctamente.
 
@@ -117,7 +100,7 @@ Las evidencias incluirán, entre otras cosas:
 
 ---
 
-## 📅 8. Estado del proyecto
+## 📅 7. Estado del proyecto
 
 <kbd>EN DESARROLLO</kbd>
 
