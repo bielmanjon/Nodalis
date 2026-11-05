@@ -1,10 +1,10 @@
-# 🖥️ Projecte Biel&Marc
+# 🖥️ Projecte Biel & Marc
 
 ## 🏢 Nodalis — Infraestructura de red de una empresa
 
 <kbd>PROYECTO FINAL SMX</kbd> · Curso 2026/2027 · Institut Puig Castellar
 
-**Autores:** Marc Moreno y Biel Manjón
+**Autores:** Biel Manjón y Marc Moreno
 
 ---
 
