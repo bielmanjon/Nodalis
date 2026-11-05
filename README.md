@@ -104,10 +104,3 @@ Las evidencias incluirán, entre otras cosas:
 
 <kbd>EN DESARROLLO</kbd>
 
-El proyecto se irá actualizando a medida que avancemos en las diferentes fases de trabajo.
-
-**Última actualización:** noviembre de 2026.
-
----
-
-*Proyecto realizado por Marc Moreno y Biel Manjón — SMX 2026/2027.*
