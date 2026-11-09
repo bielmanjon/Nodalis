@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 1. Sobre el proyecto
+## 1. Sobre el proyecto
 
 Este proyecto consiste en diseñar y montar una infraestructura informática para una empresa ficticia, simulando el entorno tecnológico que podría tener una empresa real.
 
@@ -16,7 +16,7 @@ El objetivo es crear una red organizada, segura y funcional, donde los diferente
 
 Para conseguirlo, trabajaremos con servidores, máquinas virtuales, servicios de red y herramientas de administración de sistemas.
 
-### 🎯 Objetivos principales
+### Objetivos principales
 
 - Diseñar y organizar la red de la empresa.
 - Configurar el direccionamiento IP y la segmentación de la red.
@@ -30,7 +30,7 @@ Para conseguirlo, trabajaremos con servidores, máquinas virtuales, servicios de
 
 ---
 
-## 🗂️ 2. Estructura del repositorio
+## 2. Estructura del repositorio
 
 El repositorio está dividido en diferentes carpetas para mantener todos los archivos organizados y facilitar el seguimiento del proyecto.
 
@@ -44,7 +44,7 @@ El repositorio está dividido en diferentes carpetas para mantener todos los arc
 
 ---
 
-## 🛠️ 3. Tecnologías y herramientas
+## 3. Tecnologías y herramientas
 
 Estas son las principales tecnologías y herramientas que utilizaremos durante el desarrollo:
 
@@ -64,7 +64,7 @@ Estas son las principales tecnologías y herramientas que utilizaremos durante e
 
 ---
 
-## 🔐 4. Organización y normas de trabajo
+## 4. Organización y normas de trabajo
 
 Para mantener el repositorio organizado y evitar problemas durante el desarrollo, seguiremos unas normas básicas:
 
@@ -76,7 +76,7 @@ Para mantener el repositorio organizado y evitar problemas durante el desarrollo
 
 ---
 
-## 📋 5. Seguimiento del proyecto
+## 5. Seguimiento del proyecto
 
 Utilizaremos un tablero Kanban para organizar las tareas, controlar el progreso y saber qué queda pendiente.
 
@@ -84,7 +84,7 @@ Utilizaremos un tablero Kanban para organizar las tareas, controlar el progreso 
 
 ---
 
-## 📸 6. Evidencias y pruebas
+## 6. Evidencias y pruebas
 
 Durante el desarrollo iremos añadiendo capturas de pantalla y comprobaciones para demostrar que los diferentes apartados funcionan correctamente.
 
@@ -100,7 +100,7 @@ Las evidencias incluirán, entre otras cosas:
 
 ---
 
-## 📅 7. Estado del proyecto
+## 7. Estado del proyecto
 
 <kbd>EN DESARROLLO</kbd>
 
