@@ -2,7 +2,6 @@
 
 <div align="center">
 
-  <img src="docs/images/logo-readme.gif" alt="Logotipo de Nodalis" width="700">
   <img src="docs/images/logo-readme-2.gif" alt="Logotipo de Nodalis" width="700">
 
   <p align="center">
