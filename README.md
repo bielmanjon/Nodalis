@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="docs/images/logo.png" alt="Logotipo de Nodalis" width="180">
+  <img src="docs/images/logo-readme.gif" alt="Logotipo de Nodalis" width="180">
 
   <h3 align="center">NODALIS</h3>
 
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Estado-En%20desarrollo-orange?style=for-the-badge" alt="En desarrollo">
     <br />
     <br />
-    **Biel Manjón · Marc Moreno**
+    Biel Manjón · Marc Moreno
     <br />
     Institut Puig Castellar
     <br />
