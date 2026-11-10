@@ -101,6 +101,5 @@ Las evidencias incluirán, entre otras cosas:
 ---
 
 ## 7. Estado del proyecto
-
 <kbd>EN DESARROLLO</kbd>
 
