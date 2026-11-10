@@ -4,8 +4,6 @@
 
   <img src="docs/images/logo-readme.gif" alt="Logotipo de Nodalis" width="180">
 
-  <h3 align="center">NODALIS</h3>
-
   <p align="center">
     Diseño, implementación y administración de una infraestructura informática empresarial.
     <br />
