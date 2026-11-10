@@ -1,4 +1,4 @@
-# Nodalis — Infraestructura de red empresarial
+# Infraestructura de red empresarial
 
 <div align="center">
 
