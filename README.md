@@ -212,7 +212,7 @@ A lo largo del curso académico 2026/2027 se implementarán progresivamente los 
 Proyecto desarrollado por:
 
 | Integrante | Participación |
-|:---|:---|
+
 | Biel Manjón | Diseño e implementación del proyecto. |
 | Marc Moreno | Diseño e implementación del proyecto. |
 
