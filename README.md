@@ -2,17 +2,17 @@
 
 <div align="center">
 
-  <img src="docs/images/logo.png" alt="Nodalis Logo" width="180">
+  <img src="docs/images/logo.png" alt="Logotipo de Nodalis" width="180">
 
   <h3 align="center">NODALIS</h3>
 
   <p align="center">
-    Infraestructura informática y servicios de red empresarial
+    Diseño, implementación y administración de una infraestructura informática empresarial.
     <br />
     <br />
-    <img src="https://img.shields.io/badge/Project-Final%20SMX-blue?style=for-the-badge" alt="Project">
-    <img src="https://img.shields.io/badge/Course-2026--2027-informational?style=for-the-badge" alt="Course">
-    <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" alt="Status">
+    <img src="https://img.shields.io/badge/Proyecto-Final%20SMX-blue?style=for-the-badge" alt="Proyecto Final SMX">
+    <img src="https://img.shields.io/badge/Curso-2026--2027-informational?style=for-the-badge" alt="Curso 2026-2027">
+    <img src="https://img.shields.io/badge/Estado-En%20desarrollo-orange?style=for-the-badge" alt="En desarrollo">
     <br />
     <br />
     **Biel Manjón · Marc Moreno**
@@ -20,77 +20,77 @@
     Institut Puig Castellar
     <br />
     <br />
-    <a href="https://tree.taiga.io/project/marcmorenoariza-nodalis/kanban"><strong>Project Board</strong></a>
+    <a href="https://tree.taiga.io/project/marcmorenoariza-nodalis/kanban"><strong>Consultar tablero del proyecto</strong></a>
   </p>
 
 </div>
 
 ---
 
-## Table of Contents
+## Índice
 
 <details>
-  <summary>View contents</summary>
+  <summary>Ver contenido</summary>
 
-  1. [About the Project](#about-the-project)
-  2. [Project Objectives](#project-objectives)
-  3. [Technologies](#technologies)
-  4. [Repository Structure](#repository-structure)
-  5. [Infrastructure](#infrastructure)
-  6. [Workflow](#workflow)
-  7. [Testing and Documentation](#testing-and-documentation)
-  8. [Project Tracking](#project-tracking)
-  9. [Project Status](#project-status)
-  10. [Authors](#authors)
+  1. [Sobre el proyecto](#sobre-el-proyecto)
+  2. [Objetivos](#objetivos)
+  3. [Tecnologías utilizadas](#tecnologías-utilizadas)
+  4. [Estructura del repositorio](#estructura-del-repositorio)
+  5. [Infraestructura](#infraestructura)
+  6. [Organización y metodología](#organización-y-metodología)
+  7. [Pruebas y documentación](#pruebas-y-documentación)
+  8. [Seguimiento del proyecto](#seguimiento-del-proyecto)
+  9. [Estado del proyecto](#estado-del-proyecto)
+  10. [Autores](#autores)
 
 </details>
 
 ---
 
-## About the Project
+## Sobre el proyecto
 
-**Nodalis** is an academic project developed as part of the final project of the Microcomputer Systems and Networks (SMX) vocational training programme at Institut Puig Castellar.
+**Nodalis** es un proyecto académico desarrollado como parte del Proyecto Final del ciclo formativo de Sistemas Microinformáticos y Redes (SMX) del Institut Puig Castellar.
 
-The project focuses on designing, deploying and managing the IT infrastructure of a fictional company, simulating a real-world business environment.
+El proyecto consiste en diseñar, implementar y administrar la infraestructura informática de una empresa ficticia, simulando un entorno tecnológico empresarial real.
 
-The main purpose is to build an organized, secure and functional network infrastructure capable of managing users, devices, services and shared resources.
+El objetivo principal es construir una infraestructura de red organizada, segura y funcional, capaz de gestionar los diferentes equipos, usuarios, servicios y recursos de la organización.
 
-The implementation combines virtualization, network services, server administration and web development technologies.
+Para ello, se trabajará con servidores, máquinas virtuales, servicios de red y herramientas de administración de sistemas, integrando todos los componentes en un entorno centralizado.
 
-## Project Objectives
+## Objetivos
 
-The main objectives of the project are:
+Los principales objetivos del proyecto son:
 
-- Design and implement the company's network infrastructure.
-- Configure IP addressing and network segmentation.
-- Deploy DNS and DHCP services.
-- Implement a firewall to control network traffic.
-- Configure an Active Directory domain environment.
-- Manage users, groups and access permissions.
-- Set up shared folders and storage resources.
-- Implement a backup system.
-- Develop a corporate website using Astro.
-- Perform functionality and security tests.
+- Diseñar e implementar la infraestructura de red de la empresa.
+- Configurar el direccionamiento IP y la segmentación de la red.
+- Instalar y configurar los servicios DNS y DHCP.
+- Implementar un firewall para controlar y proteger las comunicaciones.
+- Desplegar un entorno de Active Directory para la gestión centralizada.
+- Crear y administrar usuarios, grupos y permisos de acceso.
+- Configurar carpetas compartidas y recursos de almacenamiento.
+- Implementar un sistema de copias de seguridad.
+- Desarrollar una página web corporativa utilizando Astro.
+- Realizar pruebas de funcionamiento y seguridad de toda la infraestructura.
 
-## Technologies
+## Tecnologías utilizadas
 
-The following technologies and tools will be used throughout the project.
+Durante el desarrollo del proyecto se utilizarán diferentes tecnologías y herramientas relacionadas con la administración de sistemas, redes y desarrollo web.
 
-| Technology | Purpose |
+| Tecnología | Funcionalidad |
 |:---|:---|
-| Virtual Machines | Server and workstation virtualization. |
-| DNS | Domain and hostname resolution. |
-| DHCP | Automatic IP address assignment. |
-| Firewall | Network traffic filtering and security. |
-| Active Directory | Centralized user and computer management. |
-| Shared Folders | File storage and access management. |
-| Backup System | Data protection and recovery. |
-| Astro | Corporate website development. |
-| Git / GitHub | Version control and collaboration. |
+| Máquinas virtuales | Virtualización de equipos y servidores. |
+| DNS | Resolución de nombres de dominio y equipos. |
+| DHCP | Asignación automática de direcciones IP. |
+| Firewall | Filtrado y control del tráfico de red. |
+| Active Directory | Gestión centralizada de usuarios, grupos y equipos. |
+| Carpetas compartidas | Almacenamiento y administración de recursos compartidos. |
+| Copias de seguridad | Protección y recuperación de datos. |
+| Astro | Desarrollo de la página web corporativa. |
+| Git y GitHub | Control de versiones y trabajo colaborativo. |
 
-## Repository Structure
+## Estructura del repositorio
 
-The repository is divided into several directories to keep the project organized and simplify maintenance.
+El repositorio está organizado en diferentes directorios para mantener todos los archivos del proyecto ordenados y facilitar su mantenimiento.
 
 ```text
 NODALIS/
@@ -126,93 +126,101 @@ NODALIS/
 └── README.md
 ```
 
-*The repository structure may evolve throughout the development process.*
+*La estructura del repositorio podrá ampliarse y modificarse conforme avance el desarrollo del proyecto.*
 
-## Infrastructure
+## Infraestructura
 
-The Nodalis infrastructure is organized into several functional areas.
+La infraestructura de Nodalis se divide en diferentes áreas funcionales que trabajarán conjuntamente para proporcionar los servicios informáticos de la empresa.
 
-| Area | Description |
+| Área | Descripción |
 |:---|:---|
-| Network | Network design, IP addressing and connectivity. |
-| Network Services | DNS and DHCP configuration. |
-| Security | Firewall and traffic management. |
-| Servers | Virtualization and server administration. |
-| User Management | Centralized administration through Active Directory. |
-| Storage | Shared folders and access permissions. |
-| Backups | Data protection and recovery. |
-| Web Development | Corporate website built with Astro. |
+| Red | Diseño, direccionamiento IP y conectividad. |
+| Servicios de red | Configuración de los servicios DNS y DHCP. |
+| Seguridad | Protección de la infraestructura mediante firewall. |
+| Servidores | Virtualización y administración de servidores. |
+| Gestión de usuarios | Administración centralizada mediante Active Directory. |
+| Almacenamiento | Carpetas compartidas y gestión de permisos. |
+| Copias de seguridad | Protección y recuperación de la información. |
+| Desarrollo web | Creación de la página web corporativa con Astro. |
 
-## Workflow
+## Organización y metodología
 
-Git and GitHub will be used to manage source code, track changes and coordinate collaboration between project members.
+Para desarrollar el proyecto de forma organizada y facilitar el trabajo en equipo, utilizaremos Git y GitHub como herramientas principales de control de versiones.
 
-### Branch Strategy
+### Gestión de ramas
 
-| Branch | Purpose |
+Seguiremos una estructura de ramas para mantener estable el código principal del proyecto.
+
+| Rama | Funcionalidad |
 |:---|:---|
-| `main` | Main branch containing stable versions. |
-| `feature/<task>` | Branches dedicated to specific tasks and features. |
+| `main` | Rama principal que contiene las versiones estables. |
+| `feature/<tarea>` | Ramas destinadas al desarrollo de tareas o funcionalidades específicas. |
 
-### Development Workflow
+### Flujo de trabajo
 
-1. Create a new `feature/<task>` branch.
-2. Implement the corresponding changes.
-3. Commit the changes.
-4. Push the branch to the remote repository.
-5. Open a Pull Request targeting `main`.
-6. Review and merge the changes.
+1. Crear una nueva rama `feature/<tarea>`.
+2. Realizar los cambios correspondientes.
+3. Guardar los cambios mediante commits.
+4. Subir la rama al repositorio remoto.
+5. Crear un Pull Request hacia `main`.
+6. Revisar e integrar los cambios.
 
-### Repository Guidelines
+### Normas del repositorio
 
-- **Screenshots:** All evidence must be stored in a `capturas/` directory within its corresponding section.
-- **Security:** Passwords, private keys and ISO files must never be uploaded.
-- **Organization:** Files must be stored in their corresponding directories.
-- **Stability:** The `main` branch must contain stable versions.
-- **Collaboration:** Changes must be integrated through Pull Requests.
+- **Capturas:** todas las evidencias se guardarán en una carpeta `capturas/` dentro de su correspondiente apartado.
+- **Seguridad:** no se subirán contraseñas, claves privadas ni archivos ISO.
+- **Organización:** todos los archivos deberán estar almacenados en su directorio correspondiente.
+- **Estabilidad:** la rama `main` contendrá únicamente versiones estables del proyecto.
+- **Colaboración:** los cambios se incorporarán mediante Pull Requests.
 
-## Testing and Documentation
+## Pruebas y documentación
 
-Throughout the project, configurations and tests will be documented to demonstrate that the infrastructure works correctly.
+Durante el desarrollo se documentarán las configuraciones y comprobaciones realizadas para demostrar el correcto funcionamiento de la infraestructura.
 
-The evidence will include:
+Las evidencias incluirán:
 
-- Network configuration and connectivity.
-- DNS and DHCP service functionality.
-- Firewall configuration and traffic filtering.
-- Active Directory users and groups.
-- Shared folder access and permissions.
-- Backup execution and verification.
-- Corporate website functionality.
+- Configuración y conectividad de la red.
+- Instalación y funcionamiento de los servicios DNS y DHCP.
+- Configuración y comprobación del firewall.
+- Creación y administración de usuarios y grupos en Active Directory.
+- Acceso a carpetas compartidas y comprobación de permisos.
+- Realización y verificación de copias de seguridad.
+- Funcionamiento de la página web corporativa.
 
-Screenshots and supporting documentation will be stored in their corresponding project directories.
+Todas las pruebas estarán acompañadas de sus correspondientes capturas y documentación cuando sea necesario.
 
-## Project Tracking
+## Seguimiento del proyecto
 
-Taiga will be used as the project's Kanban management tool to organize tasks, assign responsibilities and monitor development progress.
+Para organizar las tareas, distribuir el trabajo y controlar el progreso, utilizaremos **Taiga** como herramienta de gestión mediante un tablero Kanban.
 
-**Project Board:**
+El tablero permitirá consultar las tareas pendientes, las que se encuentran en desarrollo y las que ya han sido completadas.
 
-[Open Nodalis Kanban Board](https://tree.taiga.io/project/marcmorenoariza-nodalis/kanban)
+**Tablero de trabajo:**
 
-## Project Status
+[Acceder al tablero Kanban de Nodalis](https://tree.taiga.io/project/marcmorenoariza-nodalis/kanban)
 
-![Status](https://img.shields.io/badge/Development-In%20Progress-orange?style=for-the-badge)
+## Estado del proyecto
 
-Nodalis is currently under development.
+![Estado del proyecto](https://img.shields.io/badge/Desarrollo-En%20curso-orange?style=for-the-badge)
 
-The infrastructure, services and documentation will be progressively implemented throughout the 2026/2027 academic year.
+Nodalis se encuentra actualmente en fase de desarrollo.
 
-## Authors
+A lo largo del curso académico 2026/2027 se implementarán progresivamente los diferentes servicios, configuraciones y funcionalidades previstas, documentando los avances y verificando su correcto funcionamiento.
 
-| Name | Role |
+## Autores
+
+Proyecto desarrollado por:
+
+| Integrante | Participación |
 |:---|:---|
-| Biel Manjón | Project development |
-| Marc Moreno | Project development |
+| Biel Manjón | Diseño e implementación del proyecto. |
+| Marc Moreno | Diseño e implementación del proyecto. |
 
-**Institution:** Institut Puig Castellar  
-**Programme:** Microcomputer Systems and Networks (SMX)  
-**Academic Year:** 2026/2027
+**Centro educativo:** Institut Puig Castellar
+
+**Ciclo formativo:** Sistemas Microinformáticos y Redes (SMX)
+
+**Curso académico:** 2026/2027
 
 ---
 
@@ -220,47 +228,8 @@ The infrastructure, services and documentation will be progressively implemented
 
   **NODALIS**
 
-  *Designing and implementing enterprise IT infrastructure.*
+  *Diseñando e implementando infraestructuras informáticas empresariales.*
 
-<<<<<<< HEAD
-Para mantener el repositorio organizado y evitar problemas durante el desarrollo, seguiremos unas normas básicas:
-
-- **Capturas:** todas las imágenes y evidencias se guardarán en una carpeta `capturas/` dentro de su correspondiente apartado.
-- **Seguridad:** no se subirán contraseñas, claves privadas ni archivos ISO al repositorio.
-- **Ramas:** `main` será la rama principal y contendrá las versiones estables del proyecto.
-- **Cambios:** cada integrante trabajará en su propia rama `feature/<tarea>` y después abrirá un Pull Request para incorporar los cambios.
-- **Organización:** los archivos se guardarán siempre en la carpeta correspondiente para facilitar su localización.
-
----
-
-## 5. Seguimiento del proyecto
-
-Utilizaremos un tablero Kanban para organizar las tareas, controlar el progreso y saber qué queda pendiente.
-
-🔗  [https://tree.taiga.io/project/marcmorenoariza-nodalis/kanban]
-
----
-
-## 6. Evidencias y pruebas
-
-Durante el desarrollo iremos añadiendo capturas de pantalla y comprobaciones para demostrar que los diferentes apartados funcionan correctamente.
-
-Las evidencias incluirán, entre otras cosas:
-
-- Configuración y funcionamiento de la red.
-- Servicios DNS y DHCP.
-- Configuración del firewall.
-- Usuarios y grupos de Active Directory.
-- Acceso a carpetas compartidas y permisos.
-- Realización de copias de seguridad.
-- Funcionamiento de la página web.
-
----
-
-## 7. Estado del proyecto
-<kbd>EN DESARROLLO</kbd>
-=======
-  <a href="#nodalis--infraestructura-de-red-empresarial">Back to top</a>
->>>>>>> 7b4684a (Readme Changes)
+  <a href="#nodalis--infraestructura-de-red-empresarial">Volver al principio</a>
 
 </div>
