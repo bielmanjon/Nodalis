@@ -8,8 +8,6 @@
 
   <p align="center">
     Infraestructura informática y servicios de red empresarial
-
-    
     <br />
     <br />
     <img src="https://img.shields.io/badge/Project-Final%20SMX-blue?style=for-the-badge" alt="Project">
@@ -17,12 +15,7 @@
     <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" alt="Status">
     <br />
     <br />
-
-    
     **Biel Manjón · Marc Moreno**
-
-
-    
     <br />
     Institut Puig Castellar
     <br />
