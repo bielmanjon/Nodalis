@@ -211,8 +211,8 @@ Proyecto desarrollado por:
 
 | Integrante | Participación |
 
-| Biel Manjón | Diseño e implementación del proyecto. |
-| Marc Moreno | Diseño e implementación del proyecto. |
+|Biel Manjón | Diseño e implementación del proyecto.|
+|Marc Moreno | Diseño e implementación del proyecto.|
 
 **Centro educativo:** Institut Puig Castellar
 
